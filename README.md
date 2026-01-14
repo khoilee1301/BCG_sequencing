@@ -11,3 +11,7 @@ Using the insertion and deletion sequences identified in the Aeras BCG sample, I
 Overall, we observed both insertions and deletions in the Aeras BCG genome compared with reference strains. Most of the deleted genes belonged to the PE and PPE families, with PE family proteins making up the largest share. In contrast, the inserted genes from both the Danish and Pasteur lineages were largely composed of PE and PE-PGRS family proteins, which together accounted for more than half of the insertions. This pattern suggests that PE/PE-PGRS regions are being exchanged rather than randomly lost, consistent with their roles in immune interaction and antigenic variation, and pointing to meaningful strain-specific differences in Aeras BCG.
 
 ![Insertion sequences from Pasteur](Inserted_Pasteur.png) 
+
+![Insertion sequences from Danish](Inserted_Danish.png) 
+
+![Deleted sequences](Deleted_Aeras.png) 
